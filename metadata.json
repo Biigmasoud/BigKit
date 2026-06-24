@@ -1,0 +1,6 @@
+{
+  "name": "BigKit",
+  "description": "مرجع تخصصی خرید لباس فوتبال، کیت‌های باشگاهی و ملی با بالاترین کیفیت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
